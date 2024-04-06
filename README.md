@@ -1,4 +1,4 @@
-# Salmon-SpringBoot-Starter
+# Salmon-SpringBoot-Starter -- author Peter Sun
 
 Salmon-SpringBoot-Starter is a highly customizable Spring Boot starter for simplifying the integration, configuration, and optimization of MQ (Message Queue) systems within your Spring Boot applications. This starter aims to streamline the process of setting up and managing various MQ parameters, implementing tuning strategies, and ensuring seamless messaging operations.
 
